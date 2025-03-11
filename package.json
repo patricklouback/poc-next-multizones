@@ -1,0 +1,13 @@
+{
+  "name": "poc-multizones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "project01": "cd poc-multizones-app-001 && npm run dev",
+    "project02": "cd poc-multizones-app-002 && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
